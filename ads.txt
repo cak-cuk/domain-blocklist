@@ -1,0 +1,7 @@
+0.0.0.0 cdn.geozo.com
+0.0.0.0 cdn.jwplayer.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 player.ivideosmart.com
+0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 jwcdn.com
+0.0.0.0 content.jwplatform.com
