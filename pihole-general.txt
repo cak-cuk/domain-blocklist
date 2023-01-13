@@ -1,0 +1,7 @@
+cdn.geozo.com
+cdn.jwplayer.com
+ib.adnxs.com
+player.ivideosmart.com
+assets-jpcust.jwpsrv.com
+jwcdn.com
+content.jwplatform.com
