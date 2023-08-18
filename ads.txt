@@ -5,3 +5,4 @@
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 jwcdn.com
 0.0.0.0 content.jwplatform.com
+0.0.0.0 ads.adthrive.com
